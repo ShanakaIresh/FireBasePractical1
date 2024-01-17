@@ -1,0 +1,16 @@
+.List {
+    background-color: rgb(95, 241, 84);
+    height: 800px;
+    width: 400px;
+    margin-top: 100px;
+    margin-left: 450px;
+    border-color: black;
+    border-radius: 20px;
+    border-style: double;
+    border-width: 5px;
+}
+
+.ol {
+    padding-top: 30px;
+    font-size: 25px;
+}
