@@ -30,7 +30,7 @@ const addData = () => {
             <ol>
                 <li>${doc[0].game_name}</li>
                 <li>${doc[0].developer_team}</li>
-                <li>${doc[0].year_release}</li>
+                <li>${doc[0].release_year}</li>
             </ol>
     `
         node.innerHTML += block
